@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aswinicracker
+- 👀 I’m interested in learning new skills 
+- 🌱 I’m currently learning ECE
